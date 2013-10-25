@@ -1,0 +1,9 @@
+Ram, 6, 135
+Rajesh, 6, 133
+Biju, 5, 134
+Siju, 5, 136
+Tom, 7, 124
+Dick, 7, 144
+Jerry, 2, 114
+Terry, 2, 104
+Harry, 2, 105
